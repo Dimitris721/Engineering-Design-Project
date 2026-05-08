@@ -1,0 +1,11 @@
+# Rhapsody Model Files
+*.rpy diff=rhapsody merge=rhapsody
+*.rpyx diff=rhapsody merge=rhapsody
+*.sbs diff=rhapsody merge=rhapsody
+*.sbsx diff=rhapsody merge=rhapsody
+*.cls diff=rhapsody merge=rhapsody
+*.clsx diff=rhapsody merge=rhapsody
+*.cmp diff=rhapsody merge=rhapsody
+*.cmpx diff=rhapsody merge=rhapsody
+*.omd diff=rhapsody merge=rhapsody
+*.omdx diff=rhapsody merge=rhapsody
