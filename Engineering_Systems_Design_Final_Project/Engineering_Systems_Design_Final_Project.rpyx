@@ -24,8 +24,9 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">5.8.2026::11:21:46</_modifiedTimeWeak>
-			<_modifiedTime type="a">5.8.2026::11:21:46</_modifiedTime>
+			<_modifiedTimeWeak type="a">5.17.2026::13:43:30</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.17.2026::14:50:33</_modifiedTime>
+			<_lastID type="a">6</_lastID>
 			<_UserColors type="w">
 				<IRPYRawContainer type="e">
 					<value>16777215</value>
@@ -104,6 +105,12 @@
 				<value>GUID bad990fa-db81-4bf6-9b66-dfa4327d1228</value>
 				<value>GUID 014ed2e9-e826-4c57-9aba-402ea337bea2</value>
 				<value>GUID 1a1c3364-ef07-4938-ba58-7b1db941b293</value>
+				<value>GUID 3ab972c9-de3b-4174-aed1-1f1bc0cc52cf</value>
+				<value>GUID 53f476fc-0921-4ad4-8cae-9b0b804e2143</value>
+				<value>GUID 2cd84185-3018-4642-91a2-558ed48509fe</value>
+				<value>GUID 65b44b81-8793-48b9-8776-50f27645b556</value>
+				<value>GUID e22353fb-63ad-473f-9e3a-ca035f720014</value>
+				<value>GUID 58c13338-047f-4e5c-9815-ac5863973eb0</value>
 				<value>GUID 3ccfbd6d-6339-4dbd-8159-3afc1847dddd</value>
 			</AggregatesList>
 		</IProject>
@@ -1000,6 +1007,30 @@ Right-click this Requirements Importer and select \b CSV Import Settings\par%0D
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
 		</IClass>
+		<ISubsystem type="e">
+			<fileName type="a">Pkg_01_Requirements</fileName>
+			<_id type="a">GUID 3ab972c9-de3b-4174-aed1-1f1bc0cc52cf</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">package_1</fileName>
+			<_id type="a">GUID 53f476fc-0921-4ad4-8cae-9b0b804e2143</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">Pkg_02_UseCases</fileName>
+			<_id type="a">GUID 2cd84185-3018-4642-91a2-558ed48509fe</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">package_3</fileName>
+			<_id type="a">GUID 65b44b81-8793-48b9-8776-50f27645b556</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">Pkg_03_LogicalArchitecture</fileName>
+			<_id type="a">GUID e22353fb-63ad-473f-9e3a-ca035f720014</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">Pkg_04_Behavior</fileName>
+			<_id type="a">GUID 58c13338-047f-4e5c-9815-ac5863973eb0</_id>
+		</ISubsystem>
 		<IComponent type="e">
 			<fileName type="a">DefaultComponent</fileName>
 			<_id type="a">GUID 3ccfbd6d-6339-4dbd-8159-3afc1847dddd</_id>
