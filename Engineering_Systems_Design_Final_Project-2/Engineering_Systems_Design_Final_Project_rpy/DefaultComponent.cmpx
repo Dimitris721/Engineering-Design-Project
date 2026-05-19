@@ -18,23 +18,16 @@
 			<m_configActive type="r">
 				<ICodeGenConfigInfoHandle type="e">
 					<_hm2Class type="a">ICodeGenConfigInfo</_hm2Class>
-					<_hid type="a">GUID 6007ad68-a018-4021-b47a-c0ef5cb99cc7</_hid>
+					<_hname type="a">DefaultConfig</_hname>
+					<_hid type="a">GUID d61bb75a-0465-4b75-8772-331256aeb418</_hid>
 				</ICodeGenConfigInfoHandle>
 			</m_configActive>
 			<HandlesInMe type="c">
 				<IRPYRawContainer type="e">
 					
 						<IHandle type="e">
-							<_hm2Class type="a">ISubsystem</_hm2Class>
-							<_hfilename type="a">.\Default.sbsx</_hfilename>
-							<_hname type="a">Default</_hname>
-							<_hid type="a">GUID 91821866-3148-46d4-9277-2d0bde401928</_hid>
-						</IHandle>
-					
-					
-						<IHandle type="e">
 							<_hm2Class type="a">IProfile</_hm2Class>
-							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbsx</_hfilename>
 							<_hname type="a">SysML</_hname>
 							<_hid type="a">GUID d9689b73-885e-44c4-896b-de43defa0a33</_hid>
 						</IHandle>
@@ -45,6 +38,54 @@
 							<_hfilename type="a">$OMROOT\Settings\SysMLPerspectives\SysMLPerspectives.sbsx</_hfilename>
 							<_hname type="a">SysMLPerspectives</_hname>
 							<_hid type="a">GUID ab285915-0966-4322-a029-ffac3e6ef3df</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\Pkg_01_Requirements.sbsx</_hfilename>
+							<_hname type="a">Pkg_01_Requirements</_hname>
+							<_hid type="a">GUID 3ab972c9-de3b-4174-aed1-1f1bc0cc52cf</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\package_1.sbsx</_hfilename>
+							<_hname type="a">package_1</_hname>
+							<_hid type="a">GUID 53f476fc-0921-4ad4-8cae-9b0b804e2143</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\Pkg_02_UseCases.sbsx</_hfilename>
+							<_hname type="a">Pkg_02_UseCases</_hname>
+							<_hid type="a">GUID 2cd84185-3018-4642-91a2-558ed48509fe</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\package_3.sbsx</_hfilename>
+							<_hname type="a">package_3</_hname>
+							<_hid type="a">GUID 65b44b81-8793-48b9-8776-50f27645b556</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\Pkg_03_Structrure.sbsx</_hfilename>
+							<_hname type="a">Pkg_03_Structrure</_hname>
+							<_hid type="a">GUID e22353fb-63ad-473f-9e3a-ca035f720014</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\Pkg_04_Behavior.sbsx</_hfilename>
+							<_hname type="a">Pkg_04_Behavior</_hname>
+							<_hid type="a">GUID 58c13338-047f-4e5c-9815-ac5863973eb0</_hid>
 						</IHandle>
 					
 				</IRPYRawContainer>

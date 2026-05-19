@@ -24,7 +24,7 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">5.19.2026::13:19:4</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
 			<_modifiedTime type="a">5.19.2026::13:19:4</_modifiedTime>
 			<_lastID type="a">7</_lastID>
 			<_UserColors type="w">
@@ -149,7 +149,7 @@
 			<strongCGTime type="a">5.8.2026::11:21:39</strongCGTime>
 			<_defaultComposite type="s">GUID c7ffe981-56f7-4d6f-9763-624038f98883</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
-			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<_configurationRelatedTime type="a">12.31.1969::16:0:0</_configurationRelatedTime>
 			<AggregatesList type="e">
 				<value>GUID c7ffe981-56f7-4d6f-9763-624038f98883</value>
 				<value>GUID f8352f2e-73b4-4fc8-953d-d838526069eb</value>
@@ -387,7 +387,7 @@ Right-click this Requirements Importer and select \b CSV Import Settings\par%0D
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.15.2020::15:7:24</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
 			<_modifiedTime type="a">1.15.2020::15:7:24</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
@@ -413,7 +413,7 @@ Right-click this Requirements Importer and select \b CSV Import Settings\par%0D
 		</ITag>
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID 99550574-fd1e-493a-b207-74175a4db5f6</_id>
-			<_modifiedTimeWeak type="a">1.15.2020::15:7:24</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
 			<_modifiedTime type="a">1.15.2020::15:7:24</_modifiedTime>
 			<_value type="a">True</_value>
 		</ILiteralSpecification>
@@ -440,7 +440,7 @@ Right-click this Requirements Importer and select \b CSV Import Settings\par%0D
 			<strongCGTime type="a">5.8.2026::11:21:39</strongCGTime>
 			<_defaultComposite type="s">GUID 2fa77cb4-1e8b-4d41-a2ef-39c7cbcb6a82</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
-			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<_configurationRelatedTime type="a">12.31.1969::16:0:0</_configurationRelatedTime>
 			<AggregatesList type="e">
 				<value>GUID 9af49592-4263-4557-8b2b-8febd6792828</value>
 				<value>GUID 2fa77cb4-1e8b-4d41-a2ef-39c7cbcb6a82</value>
@@ -905,7 +905,7 @@ Right-click this Requirements Importer and select \b CSV Import Settings\par%0D
 			<strongCGTime type="a">5.8.2026::11:21:39</strongCGTime>
 			<_defaultComposite type="s">GUID 3a64e6fa-3c54-4071-8ed9-1c9023128baa</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
-			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<_configurationRelatedTime type="a">12.31.1969::16:0:0</_configurationRelatedTime>
 			<AggregatesList type="e">
 				<value>GUID 3a64e6fa-3c54-4071-8ed9-1c9023128baa</value>
 			</AggregatesList>
@@ -947,7 +947,7 @@ Right-click this Requirements Importer and select \b CSV Import Settings\par%0D
 			<strongCGTime type="a">5.8.2026::11:21:39</strongCGTime>
 			<_defaultComposite type="s">GUID 1d8144bc-4daf-4f09-aa15-db2b66a9cd94</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
-			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<_configurationRelatedTime type="a">12.31.1969::16:0:0</_configurationRelatedTime>
 			<AggregatesList type="e">
 				<value>GUID 1d8144bc-4daf-4f09-aa15-db2b66a9cd94</value>
 			</AggregatesList>
@@ -988,7 +988,7 @@ Right-click this Requirements Importer and select \b CSV Import Settings\par%0D
 			<strongCGTime type="a">5.8.2026::11:21:39</strongCGTime>
 			<_defaultComposite type="s">GUID 5e0be83c-2552-4337-a8bf-e4a7a3ed537b</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
-			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<_configurationRelatedTime type="a">12.31.1969::16:0:0</_configurationRelatedTime>
 			<AggregatesList type="e">
 				<value>GUID 5e0be83c-2552-4337-a8bf-e4a7a3ed537b</value>
 			</AggregatesList>
@@ -1024,7 +1024,7 @@ Right-click this Requirements Importer and select \b CSV Import Settings\par%0D
 			<_id type="a">GUID 65b44b81-8793-48b9-8776-50f27645b556</_id>
 		</ISubsystem>
 		<ISubsystem type="e">
-			<fileName type="a">Pkg_03_LogicalArchitecture</fileName>
+			<fileName type="a">Pkg_03_Structrure</fileName>
 			<_id type="a">GUID e22353fb-63ad-473f-9e3a-ca035f720014</_id>
 		</ISubsystem>
 		<ISubsystem type="e">
