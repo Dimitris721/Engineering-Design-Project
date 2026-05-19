@@ -28,8 +28,8 @@
 								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
 								<m_nLeft type="a">5</m_nLeft>
 								<m_nTop type="a">31</m_nTop>
-								<m_nRight type="a">841</m_nRight>
-								<m_nBottom type="a">876</m_nBottom>
+								<m_nRight type="a">1007</m_nRight>
+								<m_nBottom type="a">830</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
 						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
@@ -42,15 +42,15 @@
 								<_hid type="a">GUID 0971e140-1a97-4180-a085-1ace8e36e430</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">307 -99 </_UpLeft>
-						<_DownRight type="a">1012 614 </_DownRight>
+						<_UpLeft type="a">-233 274 </_UpLeft>
+						<_DownRight type="a">916 1184 </_DownRight>
 						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
 						<m_bIsActiveView type="a">1</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
 				</IRPYRawContainer>
 			</myViewsWithID>
-			<_fullName type="a">C:\Users\User\Engineering-Design-Project\Engineering_Systems_Design_Final_Project\Engineering_Systems_Design_Final_Project</_fullName>
+			<_fullName type="a">C:\Users\dandr\Engineering-Design-Project\Engineering_Systems_Design_Final_Project\Engineering_Systems_Design_Final_Project</_fullName>
 			<_selectedPerspective type="a">Getting-Started</_selectedPerspective>
 			<m_SearchScopeList type="c">
 				<IRPYRawContainer type="e">
